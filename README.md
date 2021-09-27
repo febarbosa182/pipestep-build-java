@@ -1,1 +1,3 @@
-# pipestep-build-java
+# Build
+
+Pipeline step responsible for build Java projects with gradle
